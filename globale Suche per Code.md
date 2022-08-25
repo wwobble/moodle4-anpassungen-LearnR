@@ -5,7 +5,7 @@ In ein Textblock am Seitenrand, so dass alle eine globale Suche haben, da die gl
 
     <strong>Kurse</strong>
 
-    <form action="https://lms.max-weber-schule.de/moodle/course/search.php" id="coursesearch" method="get" class="form-inline">
+    <form action="DEINEDOMAIN/moodle/course/search.php" id="coursesearch" method="get" class="form-inline">
 
         <fieldset class="coursesearchbox invisiblefieldset">
 
